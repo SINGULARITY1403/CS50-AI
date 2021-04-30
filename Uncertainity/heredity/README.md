@@ -3,6 +3,7 @@
 Write an AI to assess the likelihood that a person will have a particular genetic trait.
 
 $ python heredity.py data/family0.csv  
+
 Harry:  
     Gene:  
       2: 0.0092   
@@ -12,7 +13,7 @@ Harry:
       True: 0.2665  
       False: 0.7335  
     
-James: 
+James:   
     Gene:  
       2: 0.1976  
       1: 0.5106  
