@@ -6,6 +6,8 @@ In this problem, we have to find the shortest path between any two actors by cho
 
 We can frame this as a search problem: our states are people. Our actions are movies, which take us from one actor to another. Our initial state and goal state are defined by the two people we’re trying to connect. By using breadth-first search, we can find the shortest path from one actor to another.
 
+Write a program that determines how many “degrees of separation” apart two actors are.
+
 ### EXAMPLE :
 
 $ python degrees.py large
