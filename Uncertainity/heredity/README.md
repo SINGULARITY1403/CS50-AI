@@ -1,6 +1,6 @@
 #Heredity
 
-Write an AI to assess the likelihood that a person will have a particular genetic trait.
+AI to assess the likelihood that a person will have a particular genetic trait.
 
 $ python heredity.py data/family0.csv  
 
